@@ -1,0 +1,3 @@
+hello this is my ec2 trial for
+git hub ... cloudblitz
+students 
